@@ -1,1 +1,5 @@
 Kusto Query Lang notes
+
+tables:
+- ConfigurationData : 
+- InsightsMetrics : 
