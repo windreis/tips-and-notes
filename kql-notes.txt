@@ -1,0 +1,1 @@
+Kusto Query Lang notes
